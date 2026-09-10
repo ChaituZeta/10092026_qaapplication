@@ -1,0 +1,6 @@
+{
+  "name": "HP QA Application",
+  "description": "HP APJ Email QA Platform for validating SFMC email campaigns.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
